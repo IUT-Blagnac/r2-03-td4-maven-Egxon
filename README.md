@@ -1,1 +1,4 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7150549&assignment_repo_type=AssignmentRepo)
+
+Pour ce TP, nous avons du utiliser le CMD windows. Pour compiler nos projets on a du utiliser la commande mvn package, puis lancer on a du utiliser la commande mvn compile.Enfin, pout crée la javadoc, on a du aller sur le site deMaven et chercher dans la documentation, la commande pour crée la javadoc est mvn javadoc:javadoc 
+Mais attention faut bien precisez dans le pom.xml le main qu'on veut executé
